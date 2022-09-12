@@ -1,0 +1,15 @@
+C:\Users\johnd\Desktop\repos test\Variables_Exercise1\Variables_Exercise1\bin\Debug\net6.0\Variables_Exercise1.exe
+C:\Users\johnd\Desktop\repos test\Variables_Exercise1\Variables_Exercise1\bin\Debug\net6.0\Variables_Exercise1.deps.json
+C:\Users\johnd\Desktop\repos test\Variables_Exercise1\Variables_Exercise1\bin\Debug\net6.0\Variables_Exercise1.runtimeconfig.json
+C:\Users\johnd\Desktop\repos test\Variables_Exercise1\Variables_Exercise1\bin\Debug\net6.0\Variables_Exercise1.dll
+C:\Users\johnd\Desktop\repos test\Variables_Exercise1\Variables_Exercise1\bin\Debug\net6.0\Variables_Exercise1.pdb
+C:\Users\johnd\Desktop\repos test\Variables_Exercise1\Variables_Exercise1\obj\Debug\net6.0\Variables_Exercise1.csproj.AssemblyReference.cache
+C:\Users\johnd\Desktop\repos test\Variables_Exercise1\Variables_Exercise1\obj\Debug\net6.0\Variables_Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnd\Desktop\repos test\Variables_Exercise1\Variables_Exercise1\obj\Debug\net6.0\Variables_Exercise1.AssemblyInfoInputs.cache
+C:\Users\johnd\Desktop\repos test\Variables_Exercise1\Variables_Exercise1\obj\Debug\net6.0\Variables_Exercise1.AssemblyInfo.cs
+C:\Users\johnd\Desktop\repos test\Variables_Exercise1\Variables_Exercise1\obj\Debug\net6.0\Variables_Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\johnd\Desktop\repos test\Variables_Exercise1\Variables_Exercise1\obj\Debug\net6.0\Variables_Exercise1.dll
+C:\Users\johnd\Desktop\repos test\Variables_Exercise1\Variables_Exercise1\obj\Debug\net6.0\refint\Variables_Exercise1.dll
+C:\Users\johnd\Desktop\repos test\Variables_Exercise1\Variables_Exercise1\obj\Debug\net6.0\Variables_Exercise1.pdb
+C:\Users\johnd\Desktop\repos test\Variables_Exercise1\Variables_Exercise1\obj\Debug\net6.0\Variables_Exercise1.genruntimeconfig.cache
+C:\Users\johnd\Desktop\repos test\Variables_Exercise1\Variables_Exercise1\obj\Debug\net6.0\ref\Variables_Exercise1.dll
